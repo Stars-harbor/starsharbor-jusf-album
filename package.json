@@ -1,10 +1,14 @@
 {
   "name": "starsharbor-jusf-album",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "jusf-album",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stars-harbor/starsharbor-jusf-album.git"
   },
   "author": "Starsharbor",
   "license": "ISC"
