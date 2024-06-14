@@ -1,0 +1,11 @@
+{
+  "name": "starsharbor-jusf-album",
+  "version": "1.0.0",
+  "description": "jusf-album",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Starsharbor",
+  "license": "ISC"
+}
