@@ -1,6 +1,6 @@
 {
   "name": "starsharbor-jusf-album",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "jusf-album",
   "main": "index.js",
   "scripts": {
